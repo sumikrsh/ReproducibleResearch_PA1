@@ -1,2 +1,6 @@
 # ReproducibleResearch_PA1
-Reproducible Research peer assignment 1
+
+This folder contains files for peer assignment 1 of Reproducible Research course in Coursera. 
+
+
+
